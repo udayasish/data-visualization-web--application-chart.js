@@ -5,7 +5,7 @@
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/udayasish/data-visualization-web-application-chart.js.git
-   cd fullstack-assignment
+   cd data-visualization-web-application-chart.js
    ```
 
 2. **Frontend Setup:**
