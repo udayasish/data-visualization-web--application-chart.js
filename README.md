@@ -9,7 +9,7 @@
    ```
 
 2. **Frontend Setup:**
-   - Navigate to the `frontend` folder:
+   - Navigate to the `Frontend` folder:
      ```bash
      cd Frontend
      ```
@@ -24,7 +24,7 @@
    - The app will run at [http://localhost:5173/](http://localhost:5173/).
 
 3. **Backend Setup:**
-   - Open another terminal and navigate to the `backend` folder:
+   - Open another terminal and navigate to the `Backend` folder:
      ```bash
      cd Backend
      ```
