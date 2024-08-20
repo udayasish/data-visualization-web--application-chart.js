@@ -11,7 +11,7 @@
 2. **Frontend Setup:**
    - Navigate to the `frontend` folder:
      ```bash
-     cd frontend
+     cd Frontend
      ```
    - Install the necessary dependencies:
      ```bash
@@ -26,7 +26,7 @@
 3. **Backend Setup:**
    - Open another terminal and navigate to the `backend` folder:
      ```bash
-     cd backend
+     cd Backend
      ```
    - Create a `.env` file by copying the values from `.env.sample`:
      ```bash
