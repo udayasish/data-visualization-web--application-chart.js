@@ -1,10 +1,10 @@
-# Help Center API Assignment
+# Data Visualization Web Application
 
 ## Instructions
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/udayasish/data-visualization-web--application-chart.js.git
+   git clone https://github.com/udayasish/data-visualization-web-application-chart.js.git
    cd fullstack-assignment
    ```
 
