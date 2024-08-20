@@ -16,7 +16,7 @@ const TotalSalesChart = () => {
 
   const fetchSalesData = async () => {
     try {
-      const response = await axios.get(`https://data-visualization-chart-js.onrender.com/api/visualizations/total-sales?interval=${interval}`);
+      const response = await axios.get(`http://localhost:8000/api/visualizations/total-sales?interval=${interval}`);
      
       setSalesData(response.data);
       console.log(response.data);
